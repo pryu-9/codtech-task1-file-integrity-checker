@@ -4,7 +4,7 @@
 **Intern ID:** [CT6MDR50]  
 **Domain:** Cybersecurity (CS-EH)  
 **Batch:** [CT INTERNS ST23]  
-**Duration:** [m September 30th, 2025 to March 30th, 2026]  
+**Duration:** [September 30th, 2025 to March 30th, 2026]  
 **Mentor:** Nila Santos  
 
 # 🔍 File Integrity Checker - Task 1
